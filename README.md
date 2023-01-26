@@ -1,4 +1,4 @@
-### tRPC Talks
+### tRPC API
 
 Check out this self explanatory example of how Client and Server are getting closer with help of tRPC. From now and then, E2E typesafe APIs made easy
 
